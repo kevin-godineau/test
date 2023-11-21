@@ -1,0 +1,6 @@
+pandas==1.4.3
+fastapi 
+uvicorn[standard]
+pydantic 
+gunicorn 
+boto3==1.26.150 
